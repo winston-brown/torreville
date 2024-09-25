@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg1263">
+  <defs
+     id="defs1257">
+    <rect
+       x="9.8273811"
+       y="74.083336"
+       width="176.1369"
+       height="160.2619"
+       id="rect2038" />
+  </defs>
+  <metadata
+     id="metadata1260">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text2036"
+       style="font-size:9.87777999999999956px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;white-space:pre;shape-inside:url(#rect2038);"
+       transform="matrix(3.974008,0,0,3.974008,42.237117,-171.92922)"><tspan
+         x="9.828125"
+         y="82.727042"><tspan>IMAGE NOT FOUND</tspan></tspan></text>
+  </g>
+</svg>
